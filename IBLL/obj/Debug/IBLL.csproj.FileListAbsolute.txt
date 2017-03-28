@@ -1,0 +1,7 @@
+F:\visual studio 2015\Projects\Mvc5\IBLL\obj\Debug\IBLL.csprojResolveAssemblyReference.cache
+F:\visual studio 2015\Projects\Mvc5\IBLL\bin\Debug\IBLL.dll
+F:\visual studio 2015\Projects\Mvc5\IBLL\bin\Debug\IBLL.pdb
+F:\visual studio 2015\Projects\Mvc5\IBLL\bin\Debug\MODEL.dll
+F:\visual studio 2015\Projects\Mvc5\IBLL\bin\Debug\MODEL.pdb
+F:\visual studio 2015\Projects\Mvc5\IBLL\obj\Debug\IBLL.dll
+F:\visual studio 2015\Projects\Mvc5\IBLL\obj\Debug\IBLL.pdb

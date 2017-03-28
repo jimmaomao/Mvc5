@@ -1,0 +1,15 @@
+F:\visual studio 2015\Projects\Mvc5\DAL\bin\Debug\DAL.dll
+F:\visual studio 2015\Projects\Mvc5\DAL\bin\Debug\DAL.pdb
+F:\visual studio 2015\Projects\Mvc5\DAL\bin\Debug\IDAL.dll
+F:\visual studio 2015\Projects\Mvc5\DAL\bin\Debug\MODEL.dll
+F:\visual studio 2015\Projects\Mvc5\DAL\bin\Debug\IDAL.pdb
+F:\visual studio 2015\Projects\Mvc5\DAL\bin\Debug\MODEL.pdb
+F:\visual studio 2015\Projects\Mvc5\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+F:\visual studio 2015\Projects\Mvc5\DAL\obj\Debug\DAL.dll
+F:\visual studio 2015\Projects\Mvc5\DAL\obj\Debug\DAL.pdb
+F:\visual studio 2015\Projects\Mvc5\DAL\bin\Debug\DAL.dll.config
+F:\visual studio 2015\Projects\Mvc5\DAL\bin\Debug\EntityFramework.dll
+F:\visual studio 2015\Projects\Mvc5\DAL\bin\Debug\EntityFramework.SqlServer.dll
+F:\visual studio 2015\Projects\Mvc5\DAL\bin\Debug\EntityFramework.xml
+F:\visual studio 2015\Projects\Mvc5\DAL\bin\Debug\EntityFramework.SqlServer.xml
+F:\visual studio 2015\Projects\Mvc5\DAL\bin\Debug\zh-Hans\EntityFramework.resources.dll

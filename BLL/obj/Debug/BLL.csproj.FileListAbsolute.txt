@@ -1,0 +1,16 @@
+F:\visual studio 2015\Projects\Mvc5\BLL\bin\Debug\BLL.dll
+F:\visual studio 2015\Projects\Mvc5\BLL\bin\Debug\BLL.pdb
+F:\visual studio 2015\Projects\Mvc5\BLL\bin\Debug\DAL.dll
+F:\visual studio 2015\Projects\Mvc5\BLL\bin\Debug\IBLL.dll
+F:\visual studio 2015\Projects\Mvc5\BLL\bin\Debug\IDAL.dll
+F:\visual studio 2015\Projects\Mvc5\BLL\bin\Debug\MODEL.dll
+F:\visual studio 2015\Projects\Mvc5\BLL\bin\Debug\DAL.pdb
+F:\visual studio 2015\Projects\Mvc5\BLL\bin\Debug\IBLL.pdb
+F:\visual studio 2015\Projects\Mvc5\BLL\bin\Debug\IDAL.pdb
+F:\visual studio 2015\Projects\Mvc5\BLL\bin\Debug\MODEL.pdb
+F:\visual studio 2015\Projects\Mvc5\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+F:\visual studio 2015\Projects\Mvc5\BLL\obj\Debug\BLL.dll
+F:\visual studio 2015\Projects\Mvc5\BLL\obj\Debug\BLL.pdb
+F:\visual studio 2015\Projects\Mvc5\BLL\bin\Debug\EntityFramework.dll
+F:\visual studio 2015\Projects\Mvc5\BLL\bin\Debug\EntityFramework.xml
+F:\visual studio 2015\Projects\Mvc5\BLL\bin\Debug\zh-Hans\EntityFramework.resources.dll

@@ -1,0 +1,7 @@
+F:\visual studio 2015\Projects\Mvc5\IDAL\bin\Debug\IDAL.dll
+F:\visual studio 2015\Projects\Mvc5\IDAL\bin\Debug\IDAL.pdb
+F:\visual studio 2015\Projects\Mvc5\IDAL\bin\Debug\MODEL.dll
+F:\visual studio 2015\Projects\Mvc5\IDAL\bin\Debug\MODEL.pdb
+F:\visual studio 2015\Projects\Mvc5\IDAL\obj\Debug\IDAL.csprojResolveAssemblyReference.cache
+F:\visual studio 2015\Projects\Mvc5\IDAL\obj\Debug\IDAL.dll
+F:\visual studio 2015\Projects\Mvc5\IDAL\obj\Debug\IDAL.pdb

@@ -1,0 +1,10 @@
+F:\visual studio 2015\Projects\Mvc5\MODEL\bin\Debug\MODEL.dll
+F:\visual studio 2015\Projects\Mvc5\MODEL\bin\Debug\MODEL.pdb
+F:\visual studio 2015\Projects\Mvc5\MODEL\obj\Debug\MODEL.dll
+F:\visual studio 2015\Projects\Mvc5\MODEL\obj\Debug\MODEL.pdb
+F:\visual studio 2015\Projects\Mvc5\MODEL\bin\Debug\MODEL.dll.config
+F:\visual studio 2015\Projects\Mvc5\MODEL\bin\Debug\EntityFramework.dll
+F:\visual studio 2015\Projects\Mvc5\MODEL\bin\Debug\EntityFramework.SqlServer.dll
+F:\visual studio 2015\Projects\Mvc5\MODEL\bin\Debug\EntityFramework.xml
+F:\visual studio 2015\Projects\Mvc5\MODEL\bin\Debug\EntityFramework.SqlServer.xml
+F:\visual studio 2015\Projects\Mvc5\MODEL\bin\Debug\zh-Hans\EntityFramework.resources.dll
