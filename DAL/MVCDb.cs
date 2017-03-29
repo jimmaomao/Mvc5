@@ -14,7 +14,7 @@ namespace DAL
         {
         }
 
-        public DbSet<DALUser> T_User { get; set; }
+        public DbSet<T_User> T_User { get; set; }
         public DbSet<T_UserGroup> T_UserGroup { get; set; }
         public DbSet<T_UserConfig> T_UserConfig { get; set; }
     }

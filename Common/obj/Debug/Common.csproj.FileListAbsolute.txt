@@ -2,3 +2,4 @@ F:\visual studio 2015\Projects\Mvc5\Common\bin\Debug\Common.dll
 F:\visual studio 2015\Projects\Mvc5\Common\bin\Debug\Common.pdb
 F:\visual studio 2015\Projects\Mvc5\Common\obj\Debug\Common.dll
 F:\visual studio 2015\Projects\Mvc5\Common\obj\Debug\Common.pdb
+F:\visual studio 2015\Projects\Mvc5\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache

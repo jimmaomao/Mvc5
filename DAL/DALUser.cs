@@ -8,7 +8,7 @@ using IDAL;
 
 namespace DAL
 {
-    public class DALUser : DALBase<T_User>, IDALUser
+    class DALUser : DALBase<T_User>, IDALUser
     {
 
     }
