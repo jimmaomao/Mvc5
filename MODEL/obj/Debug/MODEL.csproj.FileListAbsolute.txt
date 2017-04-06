@@ -8,4 +8,3 @@ F:\visual studio 2015\Projects\Mvc5\MODEL\bin\Debug\EntityFramework.SqlServer.dl
 F:\visual studio 2015\Projects\Mvc5\MODEL\bin\Debug\EntityFramework.xml
 F:\visual studio 2015\Projects\Mvc5\MODEL\bin\Debug\EntityFramework.SqlServer.xml
 F:\visual studio 2015\Projects\Mvc5\MODEL\bin\Debug\zh-Hans\EntityFramework.resources.dll
-F:\visual studio 2015\Projects\Mvc5\MODEL\obj\Debug\MODEL.csprojResolveAssemblyReference.cache

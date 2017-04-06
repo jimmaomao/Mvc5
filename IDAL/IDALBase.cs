@@ -60,7 +60,8 @@ namespace IDAL
         /// <param name="isAsc">是否升序</param>
         /// <param name="orderLambda">排序表达式</param>
         /// <returns></returns>
-        IQueryable<T> FindList<S>(Expression<Func<T, bool>> whereLambda, bool isAsc, Expression<Func<T, S>> orderLambda);
+        // IQueryable<T> FindList<S>(Expression<Func<T, bool>> whereLambda, bool isAsc, Expression<Func<T, S>> orderLambda);
+        IQueryable<T> FindLis(Expression<Func<T, bool>> whereLambda, string orderName, bool isAsc);
 
         /// <summary>
         /// 查询分页数据列表
@@ -73,7 +74,7 @@ namespace IDAL
         /// <param name="isAsc">是否升序</param>
         /// <param name="orderLambda">排序表达式</param>
         /// <returns></returns>
-        IQueryable<T> FindPageList<S>(int pageIndex, int pageSize, out int pageCount, Expression<Func<T, bool>> whereLambda, bool isAsc, Expression<Func<T, S>> orderLambda);
-
+        //IQueryable<T> FindPageList<S>(int pageIndex, int pageSize, out int pageCount, Expression<Func<T, bool>> whereLambda, bool isAsc, Expression<Func<T, S>> orderLambda);
+        IQueryable<T> FindPageList(int pageIndex, int pageSize, out int pageCount, Expression<Func<T, bool>> whereLambda, string orderName, bool isAsc);
     }
 }

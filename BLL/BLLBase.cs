@@ -1,4 +1,5 @@
 ﻿using IBLL;
+using IDAL;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -13,8 +14,8 @@ namespace BLL
     /// <typeparam name="T"></typeparam>
     public abstract class BLLBase<T> : IBLLBase<T> where T : class, new()
     {
-        protected IBLLBase<T> CurrentRepository { get; set; }
-        public BLLBase(IBLLBase<T> currentRepository) { CurrentRepository = currentRepository; }
+        protected IDALBase<T> CurrentRepository { get; set; }
+        public BLLBase(IDALBase<T> currentRepository) { CurrentRepository = currentRepository; }
         public T Add(T entity)
         {
             return CurrentRepository.Add(entity);

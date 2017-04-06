@@ -24,6 +24,13 @@ namespace IBLL
         T_User Find(int UserID);
 
         /// <summary>
+        /// 查找用户
+        /// </summary>
+        /// <param name="UserName">用户名称</param>
+        /// <returns></returns>
+        T_User Find(string UserName);
+
+        /// <summary>
         /// 用户列表
         /// </summary>
         /// <param name="pageIndex">当前页码数</param>

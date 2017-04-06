@@ -45,3 +45,10 @@ F:\visual studio 2015\Projects\Mvc5\Mvc5\bin\zh-Hans\System.Web.Helpers.resource
 F:\visual studio 2015\Projects\Mvc5\Mvc5\bin\zh-Hans\System.Web.Mvc.resources.dll
 F:\visual studio 2015\Projects\Mvc5\Mvc5\obj\Debug\Mvc5.dll
 F:\visual studio 2015\Projects\Mvc5\Mvc5\obj\Debug\Mvc5.pdb
+F:\visual studio 2015\Projects\Mvc5\Mvc5\bin\IDAL.dll
+F:\visual studio 2015\Projects\Mvc5\Mvc5\bin\DAL.dll
+F:\visual studio 2015\Projects\Mvc5\Mvc5\bin\EntityFramework.dll
+F:\visual studio 2015\Projects\Mvc5\Mvc5\bin\IDAL.pdb
+F:\visual studio 2015\Projects\Mvc5\Mvc5\bin\DAL.pdb
+F:\visual studio 2015\Projects\Mvc5\Mvc5\bin\EntityFramework.xml
+F:\visual studio 2015\Projects\Mvc5\Mvc5\bin\zh-Hans\EntityFramework.resources.dll
